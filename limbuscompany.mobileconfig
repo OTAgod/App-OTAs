@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://khoindvn.io.vn/dns-query</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>DNS-over-HTTPS (khoindvn.io.vn)</string>
+			<key>PayloadIdentifier</key>
+			<string>io.vn.khoindvn.profile.dns</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>B68C419B-3236-4698-BFA5-2152567B33F7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>LimbusCompany</string>
+			<key>PayloadDisplayName</key>
+			<string>LimbusCompany OTA install</string>
+			<key>PayloadIdentifier</key>
+			<string>io.vn.khoindvn.profile.webclip</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>E2185BE3-9C55-47CB-AD0B-88A7C902E737</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>URL</key>
+			<string>https://YOUR-USERNAME.github.io/YOUR-REPO/</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>DNS-over-HTTPS resolver and web dashboard shortcut.</string>
+	<key>PayloadDisplayName</key>
+	<string>khoindvn DNS + Dashboard</string>
+	<key>PayloadIdentifier</key>
+	<string>io.vn.khoindvn.profile</string>
+	<key>PayloadOrganization</key>
+	<string>khoindvn</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>973837FF-5EE1-4C6C-9DDB-D6F4BF8877C2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

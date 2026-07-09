@@ -10,12 +10,12 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://khoindvn.io.vn/dns-query</string>
+				<string>https://khoindvn.io.vn</string>
 			</dict>
 			<key>PayloadDisplayName</key>
 			<string>DNS-over-HTTPS (khoindvn.io.vn)</string>
 			<key>PayloadIdentifier</key>
-			<string>io.vn.khoindvn.profile.dns</string>
+			<string>com.limbuscompanyota.profile.dns</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>

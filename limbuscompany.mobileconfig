@@ -12,6 +12,8 @@
 				<key>ServerURL</key>
 				<string>https://khoindvn.io.vn</string>
 			</dict>
+            <key>PayloadDisplayName</key>
+            <string>Anti Revoke</string>
 			<key>PayloadIdentifier</key>
 			<string>io.vn.khoindvn.profile.dns</string>
 			<key>PayloadType</key>
@@ -22,6 +24,8 @@
 			<integer>1</integer>
 		</dict>
 		<dict>
+            <key>PayloadDisplayName</key>
+            <string>Installer</string>
 			<key>Label</key>
 			<string>Dashboard</string>
 			<key>PayloadIdentifier</key>

@@ -33,7 +33,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>URL</key>
-			<string>itms-services://?action=download-manifest&url=https://otagod.github.io/App-OTAs/manifest.plist</string>
+			<string>https://otagod.github.io/App-OTAs/limbuscompanyota.html</string>
 		</dict>
 	</array>
 	<key>PayloadIdentifier</key>

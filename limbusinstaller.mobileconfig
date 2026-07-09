@@ -5,6 +5,8 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
+            <key>FullScreen</key>
+			<true/>
 			<key>Label</key>
 			<string>LimbusCompany Installer</string>
       <key>PayloadDisplayName</key>
@@ -18,7 +20,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>URL</key>
-			<string>https://otagod.github.io/App-OTAs/limbuscompanyota.html/</string>
+			<string>https://otagod.github.io/App-OTAs/limbuscompanyota.html</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
@@ -28,7 +30,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>35E74240-EAEB-45F0-BEE9-D0203818101D</string>
+	<string>18075B61-25E9-4C39-A134-4C8493D5412F</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

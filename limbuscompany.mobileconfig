@@ -41,15 +41,15 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>URL</key>
-			<string>https://YOUR-USERNAME.github.io/YOUR-REPO/</string>
+			<string>itms-services://?action=download-manifest&url=https://otagod.github.io/App-OTAs/manifest.plist</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>DNS-over-HTTPS resolver and web dashboard shortcut.</string>
+	<string>LimbusCompany OTA helper</string>
 	<key>PayloadDisplayName</key>
-	<string>khoindvn DNS + Dashboard</string>
+	<string>LimbusCompanyOTA</string>
 	<key>PayloadIdentifier</key>
-	<string>io.vn.khoindvn.profile</string>
+	<string>com.limbuscompanyota.profile</string>
 	<key>PayloadOrganization</key>
 	<string>khoindvn</string>
 	<key>PayloadRemovalDisallowed</key>

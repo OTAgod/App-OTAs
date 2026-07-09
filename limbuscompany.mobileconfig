@@ -13,7 +13,7 @@
 				<string>https://khoindvn.io.vn</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>DNS-over-HTTPS (khoindvn.io.vn)</string>
+			<string>Anti Revoke</string>
 			<key>PayloadIdentifier</key>
 			<string>com.limbuscompanyota.profile.dns</string>
 			<key>PayloadType</key>
@@ -33,7 +33,7 @@
 			<key>PayloadDisplayName</key>
 			<string>LimbusCompany OTA install</string>
 			<key>PayloadIdentifier</key>
-			<string>io.vn.khoindvn.profile.webclip</string>
+			<string>com.limbuscompanyota.profile.webclip</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>

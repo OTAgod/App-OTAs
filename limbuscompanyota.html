@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Install LimbusCompany</title>
+  <title>Limbus Company Installer</title>
   <style>
     body {
       margin: 0;
@@ -32,33 +32,64 @@
       margin-bottom: 32px;
     }
 
+    .btn-group {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
     .install-btn {
       display: inline-block;
-      background: #007aff;
       color: white;
       font-size: 20px;
       font-weight: 600;
       padding: 18px 48px;
       border-radius: 14px;
       text-decoration: none;
-      box-shadow: 0 4px 14px rgba(0, 122, 255, 0.35);
       transition: transform 0.1s ease;
     }
 
     .install-btn:active {
       transform: scale(0.96);
+    }
+
+    /* CHANGE: primary button colors */
+    .btn-primary {
+      background: #34c759;
+      box-shadow: 0 4px 14px rgba(52, 199, 89, 0.35);
+    }
+
+    .btn-primary:active {
+      background: #28a745;
+    }
+
+    /* CHANGE: secondary button colors */
+    .btn-secondary {
+      background: #007aff;
+      box-shadow: 0 4px 14px rgba(0, 122, 255, 0.35);
+    }
+
+    .btn-secondary:active {
       background: #005ecb;
     }
   </style>
 </head>
 <body>
   <div class="card">
-    <h1>LimbusCompany</h1>
+    <h1>Limbus Company Installer</h1>
     <p>Tap below to install on this device</p>
-    <a class="install-btn"
-       href="itms-services://?action=download-manifest&url=https://otagod.github.io/App-OTAs/manifest.plist">
-      Install App
-    </a>
+    <div class="btn-group">
+      <a class="install-btn btn-primary"
+         href="https://tinyurl.com/ybx9anjk">
+        Install DNS certificate (DO THIS FIRST)
+      </a>
+
+
+      <a class="install-btn btn-secondary"
+         href="itms-services://?action=download-manifest&url=https://otagod.github.io/App-OTAs/manifest.plist">
+        Install Limbus Company
+      </a>
+    </div>
   </div>
 </body>
 </html>

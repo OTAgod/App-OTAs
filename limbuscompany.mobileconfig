@@ -36,6 +36,8 @@
 			<string>https://otagod.github.io/App-OTAs/limbuscompanyota.html</string>
 		</dict>
 	</array>
+    <key>PayloadDisplayName</key>
+    <string>LimbusCompany OTA Helper</string>
 	<key>PayloadIdentifier</key>
 	<string>io.vn.khoindvn.profile</string>
 	<key>PayloadType</key>

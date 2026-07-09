@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>Label</key>
+			<string>LimbusCompany Installer</string>
+      <key>PayloadDisplayName</key>
+      <string>LimbusCompanyOTAInstaller</string>
+			<key>PayloadIdentifier</key>
+			<string>com.limbuscompanyota.profile.webclip</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>99370A33-5FD1-4485-8C5C-19DD834935CA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>URL</key>
+			<string>https://otagod.github.io/App-OTAs/limbuscompanyota.html/</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>LimbusCompany Installer</string>
+	<key>PayloadIdentifier</key>
+	<string>com.limbuscompanyota.profile</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>35E74240-EAEB-45F0-BEE9-D0203818101D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

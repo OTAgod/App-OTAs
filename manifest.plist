@@ -11,13 +11,13 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://github.com/OTAgod/App-OTAs/releases/download/v1-alt/LimbusCompany_1.108.1_1783554467.ipa</string>
+          <string>https://github.com/OTAgod/App-OTAs/releases/download/v1-BTD6%2B/Bloons.TD.6+_55.2_1783645296.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.ProjectMoon.LimbusCompanyOTA</string>
+        <string>com.ninjakiwi.bloonstd6plus--.f41fc3e1</string>
         <key>bundle-version</key>
         <string>1.0.0</string>
         <key>kind</key>
